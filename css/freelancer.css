@@ -177,7 +177,7 @@ section {
   padding: 0px 0;
 }
 section h2 {
-  margin: 0;
+  margin: 15px;
   font-size: 3em;
 }
 section.success {
